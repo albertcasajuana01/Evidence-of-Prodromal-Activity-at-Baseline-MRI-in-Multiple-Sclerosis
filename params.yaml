@@ -1,0 +1,19 @@
+imageType:
+  Original: {}
+
+featureClass:
+  firstorder:
+  shape:
+  glcm:
+  glrlm:
+  glszm:
+  gldm:
+#  ngtdm:
+
+setting:
+  normalize: true
+  resampledPixelSpacing: null
+  interpolator: 'sitkBSpline'
+  padDistance: 5
+  binWidth: 5
+  additionalInfo: False
